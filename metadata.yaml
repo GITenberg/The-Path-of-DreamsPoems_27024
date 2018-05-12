@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32406'
     url: http://www.gutenberg.org/2009/agents/32406
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27024#The-Path-of-DreamsPoems
 gutenberg_issued: '2008-10-25'
 gutenberg_type: Text
 identifiers:
