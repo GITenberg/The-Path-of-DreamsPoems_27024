@@ -1,0 +1,28 @@
+_repo: The-Path-of-DreamsPoems_27024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Giltner, Leigh Gordon
+    birthdate: 1875
+    gutenberg_agent_id: '32406'
+    url: http://www.gutenberg.org/2009/agents/32406
+description: ''
+gutenberg_issued: '2008-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27024'
+  lccn: '00002706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: 'The Path of Dreams
+
+  Poems'
+url: http://www.gutenberg.org/ebooks/27024
